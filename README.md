@@ -89,16 +89,20 @@ def mc_control(env,
 ### REG NO : 212222240113
 
 ### Action value function 
-![image](https://github.com/user-attachments/assets/7ddcf8b1-52c4-489a-8e97-eef580b667eb)
+![image](https://github.com/user-attachments/assets/e4ef37b8-bc20-4a25-9ac5-5e38b7cb9410)
+
 
 ### Optimal value function
-![image](https://github.com/user-attachments/assets/2aac525f-32ed-42fa-a28c-c7f0b16aa8a8)
+![image](https://github.com/user-attachments/assets/f1cf3e23-07f2-454b-bbc0-af297db5f3fd)
+
 
 ### Optimal policy
-![image](https://github.com/user-attachments/assets/ac9b2359-9722-4c03-b156-d7c9a8b41222)
+![image](https://github.com/user-attachments/assets/ea0d948d-4f70-4042-a22b-e09f62a90c4d)
+
 
 ### Success rate for the optimal policy
-![image](https://github.com/user-attachments/assets/348a28c0-9987-4609-88e3-ccfa1c4b0c45)
+![image](https://github.com/user-attachments/assets/89e8e57c-8e18-4165-8dca-d346c0eeb38f)
+
 
 
 ## RESULT:
